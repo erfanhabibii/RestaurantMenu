@@ -3,11 +3,6 @@ Example of RestaurantMenu template implementation with <img src="https://img.shi
 
 <br/>
 
-## Demo
-[https://restaurantmenu.liara.run/](https://restaurantmenu.liara.run/)
-
-<br/>
-
 ## Implemented
 Mobile first
 
